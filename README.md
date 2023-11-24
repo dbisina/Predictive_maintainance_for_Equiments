@@ -1,6 +1,5 @@
 # Predictive_maintainance_for_Equiments
 
-This project serves as the final project for the "Algorithms and Applications for Data Science" course at the University of Naples Federico II during the academic year 2021-2022.
 
 ## Focus
 
