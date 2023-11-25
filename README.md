@@ -57,7 +57,7 @@ The project requires the following libraries and versions:
 - Python==3.10.9
 
 ```bash
-    pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn tensorflow
+pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn tensorflow
 ```
 
 ## Conclusion
