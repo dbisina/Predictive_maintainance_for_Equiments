@@ -46,7 +46,7 @@ The features used in the analysis are sourced from the AI4I Predictive Maintenan
 
 ## Prerequisites
 
-The project requires the following libraries and versions:
+The project requires the following lisbraries and versions:
 
 - matplotlib==3.7.0
 - pandas==1.5.3
@@ -64,4 +64,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn tensor
 The project concludes with an extensive comparison of the results obtained from the predictive models. Performance is assessed using relevant metrics, and the interpretability of the models is evaluated.
 
 This project showcases the application of data science methodologies to address real-world challenges in predictive maintenance, emphasizing the importance of Industry 4.0 principles.
-
