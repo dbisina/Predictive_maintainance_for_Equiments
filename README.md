@@ -64,3 +64,4 @@ The project requires the following libraries and versions:
 The project concludes with an extensive comparison of the results obtained from the predictive models. Performance is assessed using relevant metrics, and the interpretability of the models is evaluated.
 
 This project showcases the application of data science methodologies to address real-world challenges in predictive maintenance, emphasizing the importance of Industry 4.0 principles.
+
